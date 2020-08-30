@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed8ccb24-dc4d-4be9-9ee2-d784755b1afb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1gfl3i9EpLaPjVdl80bSRoXqgGi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed8ccb24-dc4d-4be9-9ee2-d784755b1afb" name="Default Changelist" comment="" />
+      <created>1598513331241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598513331241</updated>
+      <workItem from="1598513332840" duration="1402000" />
+      <workItem from="1598683720731" duration="3530000" />
+      <workItem from="1598694426042" duration="8066000" />
+      <workItem from="1598768825378" duration="8615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="214" width="824" height="691" key="#CLI_Interpreters" timestamp="1598513997263">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="538" y="214" width="824" height="691" key="#CLI_Interpreters/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598513997263" />
+    <state x="605" y="177" width="710" height="759" key="#PHP" timestamp="1598513998494">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="605" y="177" width="710" height="759" key="#PHP/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598513998494" />
+    <state x="721" y="335" width="467" height="442" key="#Web_Browsers" timestamp="1598513582327">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="721" y="335" width="467" height="442" key="#Web_Browsers/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598513582327" />
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598514054883">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598514054883" />
+    <state x="693" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598694502010">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598694502010" />
+    <state x="1250" y="393" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598513993762">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1250" y="393" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598513993762" />
+    <state x="755" y="478" width="399" height="156" key="NewPhpFileDialog" timestamp="1598773365046">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="755" y="478" width="399" height="156" key="NewPhpFileDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598773365046" />
+    <state x="540" y="290" width="1022" height="737" key="SettingsEditor" timestamp="1598685100898">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="540" y="290" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598685100898" />
+  </component>
+</project>
